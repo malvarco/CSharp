@@ -1,0 +1,17 @@
+D:\DEV\CSharp\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.csproj.AssemblyReference.cache
+D:\DEV\CSharp\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.Hangman.resources
+D:\DEV\CSharp\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.csproj.GenerateResource.cache
+D:\DEV\CSharp\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\CSharp\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.AssemblyInfoInputs.cache
+D:\DEV\CSharp\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.AssemblyInfo.cs
+D:\DEV\CSharp\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.csproj.CoreCompileInputs.cache
+D:\DEV\CSharp\Hangman\Hangman\bin\Debug\net6.0-windows\Hangman.exe
+D:\DEV\CSharp\Hangman\Hangman\bin\Debug\net6.0-windows\Hangman.deps.json
+D:\DEV\CSharp\Hangman\Hangman\bin\Debug\net6.0-windows\Hangman.runtimeconfig.json
+D:\DEV\CSharp\Hangman\Hangman\bin\Debug\net6.0-windows\Hangman.dll
+D:\DEV\CSharp\Hangman\Hangman\bin\Debug\net6.0-windows\Hangman.pdb
+D:\DEV\CSharp\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.dll
+D:\DEV\CSharp\Hangman\Hangman\obj\Debug\net6.0-windows\refint\Hangman.dll
+D:\DEV\CSharp\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.pdb
+D:\DEV\CSharp\Hangman\Hangman\obj\Debug\net6.0-windows\Hangman.genruntimeconfig.cache
+D:\DEV\CSharp\Hangman\Hangman\obj\Debug\net6.0-windows\ref\Hangman.dll
